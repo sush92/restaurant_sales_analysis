@@ -42,7 +42,10 @@ Restaurant sales analysis is recored for 3 months data in the year 2023. The dat
 
 Here is a Restaurant sales demonstration:
 
-<iframe width="560" height="315" src="https://youtu.be/W_MsEhA8ydU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### Restaurant Sales Demonstration
+
+[![Restaurant Sales Demonstration](https://img.youtube.com/vi/W_MsEhA8ydU/0.jpg)](https://youtu.be/W_MsEhA8ydU)
+
 
 
 ## Summary of Analysis
