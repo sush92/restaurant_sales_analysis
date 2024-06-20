@@ -79,7 +79,7 @@ Here is a Restaurant sales demonstration(Click img below):
 
 
 ## Author
-- <ins><b>©2024 Sushmitha Narayanan</b></ins>
+- <ins><b>Sushmitha Narayanan</b></ins>
 - <b>[LinkedIn](https://www.linkedin.com/in/sushmitha-n-4065b59a/)</b>
 - <b>[New Kaggle](https://www.kaggle.com/datasets/agungpambudi/analyzing-restaurant-orders-international-dataset?resource=download)</b> 
 
