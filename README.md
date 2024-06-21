@@ -1,4 +1,4 @@
-# RESTURANT SALES ANALYSIS
+# RESTAURANT SALES ANALYSIS
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white)
